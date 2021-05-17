@@ -6,5 +6,5 @@ sidebar_position: 1
 
 ## Welcome!
 
-My name is Ben Ofsoski and you're watching Disney Channel!
+Hello World!
 
