@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Bens Physics Lesson',
-  tagline: 'Physics is swag',
+  tagline: 'Online Physics Made Easy',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -47,7 +47,7 @@ module.exports = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com',
+              href: 'https://github.com/Bean-y/physics-website',
             },
           ],
         },

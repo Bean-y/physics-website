@@ -4,22 +4,20 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Physics Made Easy',
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        This site aims to make physics easy for students to learn. By providing online introductory lessons for students we can empower them to pursue physics in the future.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Tailored for Year 10 students',
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Lessons are hand-crafted to specifically meet the learning needs of Year 10 students.
       </>
     ),
   },
