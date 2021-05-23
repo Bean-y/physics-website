@@ -10,8 +10,9 @@ sidebar_position: 1
 
 Currently this site contains two lessons,
 
-- Understanding free body diagrams
-- How to do net force calculations
+**- Understanding free body diagrams**
+
+**- How to do net force calculations**
 
 I am hoping that in the future this well be able to be expanded, to provide a comprehensive online learning tool to enable students to learn physics.
 
