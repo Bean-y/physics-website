@@ -22,12 +22,11 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Designed by a student, for students',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        With insight from someone that has done the hard yards and completed the coursework, a website that is ensured to meet your needs.
       </>
     ),
   },
