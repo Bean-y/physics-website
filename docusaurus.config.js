@@ -1,14 +1,14 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Bens Physics Lesson',
+  title: 'Bens Physics Site',
   tagline: 'Online Physics Made Easy',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'bean-y', // Usually your GitHub org/user name.
-  projectName: 'physics-website', // Usually your repo name.
+  organizationName: 'bean-y', // GitHub org/user name.
+  projectName: 'physics-website', // repo name.
   themeConfig: {
     navbar: {
       title: 'Ben\'s Physics Site',
@@ -63,13 +63,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/Bean-y/physics-website',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/Bean-y/physics-website',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
